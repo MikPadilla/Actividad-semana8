@@ -1,0 +1,3 @@
+1. Utilizar contraseñas fuertes y únicas para cada cuenta, combinando letras, números y símbolos.
+2. Mantener el sistema y las aplicaciones actualizadas, ya que las actualizaciones corrigen vulnerabilidades de seguridad
+3. No compartir credenciales ni información sensible y activar la autenticación de dos factores (2FA) cuando sea posible para proteger el acceso a las cuentas.

@@ -1,0 +1,6 @@
+respuesta: 
+Linux codespaces-8c61a9 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+codespace
+
+- uname -a: muestra información detallada del sistema operativo. En este caso indica que el sistema es GNU/Linux, utiliza Ubuntu 22.04, tiene el kernel 6.8.0-1052-azure y la arquitectura x86_64 (64 bits).
+- whoami: muestra el nombre del usuario que está utilizando la sesión actual. En este caso el usuario es codespace.

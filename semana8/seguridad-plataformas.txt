@@ -1,0 +1,5 @@
+1. No exponer datos personales de los usuarios sin autorización.
+2. Proteger las credenciales de acceso mediante contraseñas seguras y autenticación adecuada.
+3. Usar conexiones seguras (HTTPS) para proteger la información transmitida.
+4. Registrar accesos y actividades importantes para detectar incidentes o usos indebidos.
+5. Limitar el acceso a información sensible según los roles y permisos de cada usuario.
